@@ -10,7 +10,7 @@ Foi realizado um parâmetro para que seja verificado se e um eletrônico (true) 
 
 
 ## Incrementações futuras: 
-- I.A para verificar quando o item é ou nao Eletrônico. 
+- I.A para verificar quando o item é ou não Eletrônico. 
 - db para armazenamento dos itens e contagens de itens iguais.
 
 
