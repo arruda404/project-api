@@ -84,24 +84,26 @@ Os testes devem retornar um código de status 200 (OK) para as requisição.
 --- Home
 
 
+![Workflow](https://github.com/arruda404/project-api/blob/main/img/inicial-img.png)
 
---- Add
 
 
 
 
 --- Get
 
-
+![Workflow](https://github.com/arruda404/project-api/blob/main/img/get-img.png)
 
 
 --- Update
 
-
+![Workflow](https://github.com/arruda404/project-api/blob/main/img/put-img.png)
 
 
 --- Delete
 
-
+![Workflow](https://github.com/arruda404/project-api/blob/main/img/delete-img.png)
 
 ---Pytest 
+
+![Workflow](https://github.com/arruda404/project-api/blob/main/img/pytester-img.png)
