@@ -57,14 +57,13 @@ A API oferece os seguintes endpoints:
   URL local: http://127.0.0.1:5000/items.
 
 ---
-##Implantação no Google Cloud Platform (GCP)
+## Implantação no Google Cloud Platform (GCP)
  - Pré-requisitos
  - Conta no Google Cloud Platform.
  - Ativação do projeto GCP.
  - Cloud SDK instalado localmente.
  - App Engine habilitado no GCP.
 
----
 
 **Passos**
   1. Autenticação no GCP:
@@ -91,9 +90,9 @@ A API oferece os seguintes endpoints:
   
 7. Acesse a URL fornecida pelo GCP: Após o deploy, você verá uma mensagem com a URL da aplicação:
   Deployed service [default] to [https://<SEU_PROJETO>.uc.r.appspot.com]
+---
 
-
-##Testes Automatizados
+## Testes Automatizados
 **Executar Testes Locais**
  1. Instale o Pytest:
     pip install pytest
